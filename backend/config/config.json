@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "MONGO_URI": "mongodb+srv://saloowt:W6sTQNxZlIr4bWQ4@saloowt.sjmck.mongodb.net/?retryWrites=true&w=majority",
+    "JWT_SECRET": "77cb8517baf1cbb6b2b0e155729c2b6c6421aff115c03d7a7999a3bd497b08dcb80716cca3e48c7d810dd70dd08a3f3eee3cfab80e2885262f599d70f39938ec"
+}
